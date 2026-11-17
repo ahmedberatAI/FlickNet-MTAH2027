@@ -1,0 +1,11 @@
+# match data and anything derived from it -- never commit (terms of use)
+data/
+cache/
+submissions/
+external/
+external_data/
+.venv/
+__pycache__/
+*.pkl
+*.npz
+*.npy
