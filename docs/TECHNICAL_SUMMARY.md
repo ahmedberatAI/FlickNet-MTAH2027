@@ -1,8 +1,8 @@
 # Possession labelling for BAR-ATH — short technical document
 
-*More than a Hack 2027, Phase 1. Team: [team name] ([members]). Repository: [public URL].*
+*More than a Hack 2027, Phase 1. Team: FlickNet (Ahmed Berat Özer, Alperen Aydın, Seyit Kaan Güneş). Repository: <https://github.com/ahmedberatAI/FlickNet-MTAH2027>.*
 
-*Submitted file: `[team name].csv` (199,319 rows, MD5 `aeec84984d731d171526a8a746013479`). It is a byte copy of
+*Submitted file: `FlickNet.csv` (199,319 rows, MD5 `aeec84984d731d171526a8a746013479`). It is a byte copy of
 `submissions/candidate_v26.csv`, which `python src/make_submission.py` regenerates from the provided data. The full
 document, with every component, experiment and number, is `docs/TECHNICAL_DOCUMENT.md` in the repository.*
 
